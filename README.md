@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm youbin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a student majoring in AI. Welcome to my GitHub!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
