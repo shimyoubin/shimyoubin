@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Raccoon.png" alt="Raccoon" width="80" />
 
-# Hi 👋, I'm youbin! 🦝🌰
+# Hi, I'm youbin! 🦝🌰
 **A student developer passionate about AI, Coding, and Design.** 🇰🇷
 
 ### 🌱 About Me
