@@ -29,8 +29,6 @@
 ### 📊 GitHub Stats
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈<br>
 <img src="https://github-readme-stats.vercel.app/api?username=shimyoubin&show_icons=true&theme=transparent&title_color=F08080&text_color=79829A&icon_color=FFB6C1&hide_border=true&include_all_commits=true" alt="Youbin's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shimyoubin&theme=transparent&fire=FFB6C1&ring=FFDAB9&currStreakLabel=87CEEB&border=transparent&sideLabels=79829A&dates=79829A" alt="Youbin's GitHub Streak" />
-
 <br>
 
 
