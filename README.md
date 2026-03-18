@@ -1,14 +1,15 @@
-<div align="center">
+<div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Raccoon.png" alt="Raccoon" width="80" />
 
-# Hi , I'm youbin! 🦝🌰
+# Hi 👋, I'm youbin! 🦝🌰
 **A student developer passionate about AI, Coding, and Design.** 🇰🇷
 
 ### 🌱 About Me
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈<br>
-🎓 **Education** | DMUAi (Dongyang Mirae Univ.) <br>
+🎓 **Education** | Dongyang Mirae Univ <br>
 💡 **Interests** | AI, Coding, UI/UX Design <br>
+📧 **Email** | [shimb05@dongyang.ac.kr](mailto:shimb05@dongyang.ac.kr) <br>
 💬 **Contact** | Feel free to reach out anytime!
 
 <br>
@@ -28,9 +29,7 @@
 
 ### 📊 GitHub Stats
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈<br>
-<img src="https://github-readme-stats.vercel.app/api?username=shimyoubin&show_icons=true&theme=transparent&title_color=F08080&text_color=79829A&icon_color=FFB6C1&hide_border=true&include_all_commits=true" alt="Youbin's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=shimyoubin&show_icons=true&theme=transparent&title_color=F08080&text_color=79829A&icon_color=FFB6C1&hide_border=true&include_all_commits=true" alt="Youbin's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimyoubin&layout=compact&theme=transparent&title_color=F08080&text_color=79829A&hide_border=true" alt="Top Languages" />
 <br>
-
-
 
 </div>
