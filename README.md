@@ -29,7 +29,12 @@
 
 ### 📊 GitHub Stats
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈<br>
-<img src="https://github-readme-stats.vercel.app/api?username=shimyoubin&show_icons=true&theme=transparent&title_color=F08080&text_color=79829A&icon_color=FFB6C1&hide_border=true&include_all_commits=true" alt="Youbin's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimyoubin&layout=compact&theme=transparent&title_color=F08080&text_color=79829A&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/shimyoubin">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimyoubin&theme=transparent&hide_border=true&title_color=F08080&text_color=79829A&icon_color=FFB6C1&sideNums=79829A&sideLabels=79829A&ring=FFB6C1&fire=F08080&currStreakNum=79829A" alt="Youbin's Streak Stats" height="170" />
+</a>
+<a href="https://github.com/shimyoubin">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimyoubin&bg_color=transparent&color=79829A&line=FFB6C1&point=F08080&area=true&hide_border=true" alt="Youbin's Activity Graph" height="170" />
+</a>
 <br>
 
 </div>
